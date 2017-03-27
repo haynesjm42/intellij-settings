@@ -14,7 +14,6 @@
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.java</mask>
       <mask>*.js,*.html</mask>
@@ -22,6 +21,10 @@
       <mask>*.xml</mask>
       <mask>*.js</mask>
       <mask>*.xsd</mask>
+      <mask>*.xs</mask>
+      <mask>*.x</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
