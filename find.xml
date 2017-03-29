@@ -9,13 +9,9 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html,*.jsp" />
+    <option name="FILE_MASK" value="*.wsdl" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*.java</mask>
       <mask>*.js,*.html</mask>
       <mask>*.json</mask>
       <mask>*.xml</mask>
@@ -26,14 +22,25 @@
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.ht</mask>
-      <mask>*.html</mask>
       <mask>*.html,</mask>
       <mask>*.html,*</mask>
       <mask>*.html,*.</mask>
       <mask>*.html,*.jsp</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*,.j</mask>
+      <mask>*,.</mask>
+      <mask>*,</mask>
+      <mask>*js</mask>
+      <mask>*</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.w</mask>
+      <mask>*.ws</mask>
+      <mask>*.wsdl</mask>
     </recentFileMasks>
   </component>
 </application>
