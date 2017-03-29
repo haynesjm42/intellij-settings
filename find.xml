@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.wsdl" />
     <recentFileMasks>
       <mask>*.xsd</mask>
       <mask>*.xs</mask>
@@ -37,10 +37,10 @@
       <mask>*.we</mask>
       <mask>*.jav</mask>
       <mask>*.</mask>
+      <mask>*.java</mask>
       <mask>*.w</mask>
       <mask>*.ws</mask>
       <mask>*.wsdl</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
