@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.xsd</mask>
       <mask>*.xs</mask>
@@ -22,8 +22,6 @@
       <mask>*.html,*</mask>
       <mask>*.html,*.</mask>
       <mask>*.html,*.jsp</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*,.j</mask>
       <mask>*,.</mask>
       <mask>*,</mask>
@@ -40,6 +38,8 @@
       <mask>*.w</mask>
       <mask>*.ws</mask>
       <mask>*.wsdl</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
