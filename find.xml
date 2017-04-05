@@ -7,8 +7,8 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.c</mask>
       <mask>*.js</mask>
       <mask>*.ht</mask>
       <mask>*.html,</mask>
@@ -19,15 +19,9 @@
       <mask>*,.</mask>
       <mask>*,</mask>
       <mask>*js</mask>
-      <mask>*</mask>
-      <mask>*.j</mask>
       <mask>*.wesl</mask>
       <mask>*.wes</mask>
       <mask>*.we</mask>
-      <mask>*.jav</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.w</mask>
@@ -38,6 +32,13 @@
       <mask>pom.</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.jh</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
