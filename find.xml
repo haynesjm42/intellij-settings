@@ -1,19 +1,18 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="FILE_MASK" value="*.html,*.js" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.ht</mask>
-      <mask>*.html,</mask>
-      <mask>*.html,*</mask>
-      <mask>*.html,*.</mask>
-      <mask>*.html,*.jsp</mask>
       <mask>*,.j</mask>
       <mask>*,.</mask>
       <mask>*,</mask>
@@ -21,7 +20,6 @@
       <mask>*.wesl</mask>
       <mask>*.wes</mask>
       <mask>*.we</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.w</mask>
       <mask>*.ws</mask>
@@ -31,13 +29,20 @@
       <mask>pom.</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.jh</mask>
-      <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.j</mask>
+      <mask>*.h</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.html</mask>
+      <mask>*.html,</mask>
+      <mask>*.html,*</mask>
+      <mask>*.html,*.</mask>
+      <mask>*.html,*.js</mask>
     </recentFileMasks>
   </component>
 </application>
