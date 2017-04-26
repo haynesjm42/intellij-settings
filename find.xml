@@ -2,29 +2,44 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
+      <mask>*,.</mask>
+      <mask>*,</mask>
+      <mask>*js</mask>
+      <mask>*.wesl</mask>
+      <mask>*.wes</mask>
+      <mask>*.we</mask>
       <mask>*.jsp</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.java</mask>
-      <mask>*.js,*.html</mask>
-      <mask>*.json</mask>
+      <mask>*.w</mask>
+      <mask>*.ws</mask>
+      <mask>*.wsdl</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.jh</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>*.j</mask>
+      <mask>*.h</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
+      <mask>*.html,</mask>
+      <mask>*.html,*</mask>
+      <mask>*.html,*.</mask>
+      <mask>*.html,*.js</mask>
+      <mask>,*.js</mask>
       <mask>*.js</mask>
-      <mask>*.xsd</mask>
-      <mask>*.xs</mask>
-      <mask>*.x</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -50,6 +50,11 @@
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="aca95732-60bf-459c-8331-eb082284934b" name="oracle.jdbc.OracleDriver" dialect="Oracle" driver-class="oracle.jdbc.OracleDriver">
+      <artifact name="Oracle" use="true" version="12.1.0.2" />
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />
@@ -64,6 +69,11 @@
       <property name="characterEncoding" value="utf8" />
       <property name="characterSetResults" value="utf8" />
       <property name="yearIsDateType" value="false" />
+    </driver>
+    <driver id="6f3460f8-bb77-40ce-9958-7e503085c4d4" name="oracle.jdbc.xa.client.OracleXADataSource" driver-class="oracle.jdbc.xa.client.OracleXADataSource">
+      <artifact name="Oracle" use="true" version="12.1.0.2" />
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
       <artifact name="HSQLDB" use="true" />
