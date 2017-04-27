@@ -7,8 +7,8 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>*,.</mask>
       <mask>*,</mask>
       <mask>*js</mask>
       <mask>*.wesl</mask>
@@ -38,6 +38,7 @@
       <mask>*.html,*.js</mask>
       <mask>,*.js</mask>
       <mask>*.js</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
