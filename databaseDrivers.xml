@@ -17,6 +17,11 @@
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="oracle.jdbc.xa.client.OracleXADataSource" name="oracle.jdbc.xa.client.OracleXADataSource" dialect="Oracle" driver-class="oracle.jdbc.xa.client.OracleXADataSource">
+      <artifact name="Oracle" use="true" version="12.1.0.2" />
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
     <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
       <option name="auto-sync" value="true" />
@@ -70,8 +75,7 @@
       <property name="characterSetResults" value="utf8" />
       <property name="yearIsDateType" value="false" />
     </driver>
-    <driver id="6f3460f8-bb77-40ce-9958-7e503085c4d4" name="oracle.jdbc.xa.client.OracleXADataSource" driver-class="oracle.jdbc.xa.client.OracleXADataSource">
-      <artifact name="Oracle" use="true" version="12.1.0.2" />
+    <driver id="oracle.jdbc.OracleDriver" name="oracle.jdbc.OracleDriver" driver-class="oracle.jdbc.OracleDriver">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
     </driver>
