@@ -50,22 +50,6 @@
       <properties>
         <option name="frameworkName" value="node_modules" />
         <option name="frameworkVersion" value="" />
-        <sourceFilesUrls>
-          <item url="file://C:/GBD/UXLayer/node_modules/once" />
-          <item url="file://C:/GBD/UXLayer/node_modules/fs.realpath" />
-          <item url="file://C:/GBD/UXLayer/node_modules/exit" />
-          <item url="file://C:/GBD/UXLayer/node_modules/inflight" />
-          <item url="file://C:/GBD/UXLayer/node_modules/minimatch" />
-          <item url="file://C:/GBD/UXLayer/node_modules/glob" />
-          <item url="file://C:/GBD/UXLayer/node_modules/path-is-absolute" />
-          <item url="file://C:/GBD/UXLayer/node_modules/jasmine" />
-          <item url="file://C:/GBD/UXLayer/node_modules/brace-expansion" />
-          <item url="file://C:/GBD/UXLayer/node_modules/balanced-match" />
-          <item url="file://C:/GBD/UXLayer/node_modules/jasmine-core" />
-          <item url="file://C:/GBD/UXLayer/node_modules/inherits" />
-          <item url="file://C:/GBD/UXLayer/node_modules/concat-map" />
-          <item url="file://C:/GBD/UXLayer/node_modules/wrappy" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES />
       <JAVADOC />

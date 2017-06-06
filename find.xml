@@ -9,17 +9,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html,*.xml,*.jsp" />
     <recentFileMasks>
-      <mask>*.jh</mask>
-      <mask>*.j</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>*.html,</mask>
-      <mask>*.html,*</mask>
-      <mask>*.html,*.</mask>
-      <mask>*.html,*.js</mask>
-      <mask>,*.js</mask>
-      <mask>*.css</mask>
       <mask>*.js</mask>
       <mask>*.js,&amp;</mask>
       <mask>*.js,</mask>
@@ -36,10 +27,20 @@
       <mask>*.js,*.java,*.ht</mask>
       <mask>*.js,*.java,*.html</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
+      <mask>*.html,</mask>
+      <mask>*.html,*.xm,l;</mask>
+      <mask>*.html,*.xm,l</mask>
+      <mask>*.html,*.xm,</mask>
+      <mask>*.html,*.xml</mask>
+      <mask>*.html,*.xml,</mask>
+      <mask>*.html,*.xml,*.</mask>
+      <mask>*.html,*.xml,*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
