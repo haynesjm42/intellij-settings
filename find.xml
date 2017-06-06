@@ -1,18 +1,18 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.js,&amp;</mask>
-      <mask>*.js,</mask>
       <mask>*.js,*</mask>
       <mask>*.js,*/java</mask>
       <mask>*.js,*/ava</mask>
@@ -25,12 +25,10 @@
       <mask>*.js,*.java,*.h</mask>
       <mask>*.js,*.java,*.ht</mask>
       <mask>*.js,*.java,*.html</mask>
-      <mask>*</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.html</mask>
       <mask>*.html,</mask>
       <mask>*.html,*.xm,l;</mask>
@@ -40,6 +38,11 @@
       <mask>*.html,*.xml,</mask>
       <mask>*.html,*.xml,*.</mask>
       <mask>*.html,*.xml,*.jsp</mask>
+      <mask>*.html,*.xml,*.jsp*</mask>
+      <mask>*.html,*.xml,*.jsp*.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
