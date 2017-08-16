@@ -1,0 +1,7 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="need_to_add_schema" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
