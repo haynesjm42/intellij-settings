@@ -3,6 +3,12 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="shift meta f5" />
+  </action>
   <action id="DecreaseColumnWidth" />
   <action id="EditorChooseLookupItemCompleteStatement">
     <keyboard-shortcut first-keystroke="shift meta enter" />
@@ -37,10 +43,39 @@
   </action>
   <action id="IncreaseColumnWidth" />
   <action id="IncrementWindowWidth" />
-  <action id="ResizeToolWindowLeft" />
-  <action id="ResizeToolWindowRight" />
-  <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="shift ctrl space" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="meta p" />
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta f5" />
+  </action>
+  <action id="ShowBookmarks" />
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ToggleBookmark" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="meta f8" />
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="UML.ApplyCurrentLayout" />
 </keymap>
