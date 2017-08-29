@@ -8,6 +8,10 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="meta f9" />
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
   <action id="CopyElement" />
   <action id="DatabaseView.CopyTable" />
   <action id="Debug">
