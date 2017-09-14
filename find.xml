@@ -7,12 +7,8 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*.js,*</mask>
-      <mask>*.js,*/java</mask>
-      <mask>*.js,*/ava</mask>
-      <mask>*.js,*ava</mask>
-      <mask>*.js,*.ava</mask>
       <mask>*.js,*.java</mask>
       <mask>*.js,*.java,</mask>
       <mask>*.js,*.java,*</mask>
@@ -23,7 +19,6 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.html</mask>
       <mask>*.html,</mask>
       <mask>*.html,*.xm,l;</mask>
@@ -36,8 +31,14 @@
       <mask>*.html,*.xml,*.jsp*</mask>
       <mask>*.html,*.xml,*.jsp*.</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
