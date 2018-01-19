@@ -2,44 +2,42 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*,.</mask>
-      <mask>*,</mask>
-      <mask>*js</mask>
-      <mask>*.wesl</mask>
-      <mask>*.wes</mask>
-      <mask>*.we</mask>
-      <mask>*.jsp</mask>
-      <mask>*.w</mask>
-      <mask>*.ws</mask>
-      <mask>*.wsdl</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml</mask>
-      <mask>*.xml</mask>
-      <mask>*.jh</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
+      <mask>*.js,*.java</mask>
+      <mask>*.js,*.java,</mask>
+      <mask>*.js,*.java,*</mask>
+      <mask>*.js,*.java,*.</mask>
+      <mask>*.js,*.java,*.h</mask>
+      <mask>*.js,*.java,*.ht</mask>
+      <mask>*.js,*.java,*.html</mask>
       <mask>*.java</mask>
-      <mask>*.j</mask>
-      <mask>*.h</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
       <mask>*.html</mask>
       <mask>*.html,</mask>
-      <mask>*.html,*</mask>
-      <mask>*.html,*.</mask>
-      <mask>*.html,*.js</mask>
-      <mask>,*.js</mask>
+      <mask>*.html,*.xm,l;</mask>
+      <mask>*.html,*.xm,l</mask>
+      <mask>*.html,*.xm,</mask>
+      <mask>*.html,*.xml</mask>
+      <mask>*.html,*.xml,</mask>
+      <mask>*.html,*.xml,*.</mask>
+      <mask>*.html,*.xml,*.jsp</mask>
+      <mask>*.html,*.xml,*.jsp*</mask>
+      <mask>*.html,*.xml,*.jsp*.</mask>
+      <mask>*</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
