@@ -48,6 +48,12 @@
     <keyboard-shortcut first-keystroke="alt f3" />
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta r" />
     <keyboard-shortcut first-keystroke="ctrl r" />
