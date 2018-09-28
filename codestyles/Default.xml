@@ -1,18 +1,12 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
       <option name="TAB_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="false" />
-      <option name="SMART_TABS" value="false" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
   <JSCodeStyleSettings>
-    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
@@ -20,7 +14,7 @@
     <option name="VAR_DECLARATION_WRAP" value="5" />
     <option name="OBJECT_LITERAL_WRAP" value="0" />
     <option name="IMPORT_SORT_MEMBERS" value="false" />
-    <option name="IMPORT_USE_NODE_RESOLUTION" value="TRUE" />
+    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
   <codeStyleSettings language="Groovy">
     <option name="SPACE_WITHIN_BRACES" value="false" />
