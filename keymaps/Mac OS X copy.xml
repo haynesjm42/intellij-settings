@@ -25,6 +25,10 @@
     <keyboard-shortcut first-keystroke="meta z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
@@ -48,11 +52,30 @@
     <keyboard-shortcut first-keystroke="alt f3" />
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta b" />
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
     <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="NewElementSamePlace">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+    <keyboard-shortcut first-keystroke="ctrl alt help" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt help" />
+  </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt help" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt help" />
+  </action>
+  <action id="RemoteHost.NewRemoteItem">
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta r" />
