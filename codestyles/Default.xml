@@ -14,7 +14,6 @@
     <option name="VAR_DECLARATION_WRAP" value="5" />
     <option name="OBJECT_LITERAL_WRAP" value="0" />
     <option name="IMPORT_SORT_MEMBERS" value="false" />
-    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
   <codeStyleSettings language="Groovy">
     <option name="SPACE_WITHIN_BRACES" value="false" />
