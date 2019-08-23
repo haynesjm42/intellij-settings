@@ -19,6 +19,9 @@
   <action id="EditorDeleteLine" />
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="ForceStepInto">
@@ -35,6 +38,7 @@
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
+  <action id="MoveElementRight" />
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="ctrl down" />
@@ -85,6 +89,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Terminal.MoveToolWindowTabRight" />
   <action id="ToggleBookmark" />
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="ctrl f8" />
