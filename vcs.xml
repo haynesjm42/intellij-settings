@@ -42,9 +42,13 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="jm.haynes.42@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xh/hoist-sencha.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/code" />
+    <option name="cloneParentDir" value="C:\Users\jmhay\code" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
