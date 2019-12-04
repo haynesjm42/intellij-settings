@@ -1,4 +1,8 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Fira Code Retina" />
@@ -11,7 +15,6 @@
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
     <option name="SHOW_INLINE_DIALOG" value="false" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
