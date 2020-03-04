@@ -29,6 +29,11 @@
         <entry key="com.intellij.codeInsight.daemon.impl.RecursiveCallLineMarkerProvider" value="true" />
         <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
         <entry key="com.intellij.lang.javascript.highlighting.JSRecursiveCallLineMarkerProvider" value="true" />
+        <entry key="com.intellij.micronaut.provider.beans.MnBeansLineMarkers" value="true" />
+        <entry key="com.intellij.micronaut.provider.beans.MnEventsLineMarkers" value="true" />
+        <entry key="com.intellij.micronaut.provider.http.MnHttpLineMarkers" value="true" />
+        <entry key="com.intellij.micronaut.provider.management.MnManagementLineMarkers" value="true" />
+        <entry key="com.intellij.micronaut.provider.websocket.MnWebSocketLineMarkers" value="true" />
         <entry key="com.intellij.sql.editor.SqlLineMarkerProvider" value="true" />
         <entry key="com.intellij.sql.editor.SqlRecursiveCallLineMakerProvider" value="true" />
         <entry key="com.intellij.ui.ColorLineMarkerProvider" value="true" />
