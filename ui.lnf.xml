@@ -6,7 +6,6 @@
     <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
