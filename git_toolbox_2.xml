@@ -1,7 +1,8 @@
 <application>
   <component name="GitToolBoxAppSettings2">
-    <option name="showBlameWidget" value="false" />
-    <option name="showEditorInlineBlame" value="false" />
+    <option name="blameInlineAuthorNameType" value="FULL" />
+    <option name="blameInlineDateType" value="RELATIVE" />
+    <option name="blameStatusAuthorNameType" value="FULL" />
     <option name="decorationParts">
       <list>
         <DecorationPartConfig>
@@ -20,9 +21,9 @@
         </DecorationPartConfig>
       </list>
     </option>
-    <option name="blameInlineAuthorNameType" value="FULL" />
-    <option name="blameStatusAuthorNameType" value="FULL" />
-    <option name="blameInlineDateType" value="RELATIVE" />
     <option name="previousVersionMigrated" value="true" />
+    <option name="showBlameWidget" value="false" />
+    <option name="showEditorInlineBlame" value="false" />
+    <option name="version" value="2" />
   </component>
 </application>
